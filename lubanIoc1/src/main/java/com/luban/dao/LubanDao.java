@@ -11,6 +11,6 @@ import org.springframework.stereotype.Repository;
 public class LubanDao {
 
 	public void query(){
-		System.out.println("query");
+		System.out.println("query123");
 	}
 }
